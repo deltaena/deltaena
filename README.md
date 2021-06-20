@@ -19,8 +19,8 @@
 
 ### Languages and Tools:
 
-[<img src="https://github.com/deltaena/Resources/blob/main/java.svg" alt="drawing" width="50"/>]
-[<img src="https://github.com/deltaena/Resources/blob/main/Android_Studio_Icon_(2014-2019).svg.png" alt="drawing" width="50"/>]
-[<img src="https://github.com/deltaena/Resources/blob/main/Kotlin_Icon.png"/>]
+<img src="https://github.com/deltaena/Resources/blob/main/java.svg" alt="drawing" width="50"/>
+<img src="https://github.com/deltaena/Resources/blob/main/Android_Studio_Icon_(2014-2019).svg.png" alt="drawing" width="50"/>
+<img src="https://github.com/deltaena/Resources/blob/main/Kotlin_Icon.png" alt="drawing" width="50"/>
 
 , Kotlin, Visual Code, Javascript, C#, Spring boot 
