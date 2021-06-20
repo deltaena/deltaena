@@ -19,6 +19,6 @@
 
 ### Languages and Tools:
 
-<img src="https://github.com/deltaena/Resources/blob/main/java.svg" alt="drawing" width="30"/>
+<img src="https://github.com/deltaena/Resources/blob/main/java.svg" alt="drawing" width="50"/>
 
 Android studio, Kotlin, Java, Visual Code, Javascript, C#, Spring boot 
