@@ -16,3 +16,5 @@
 
 [linkedin]: https://www.linkedin.com/in/daniel-suárez-garcía-1b3650187
 [instagram]: https://www.instagram.com/deltaena/
+
+### Languages and Tools:
