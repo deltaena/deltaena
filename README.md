@@ -12,6 +12,8 @@
 <br />
 <br />
 
+https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
+
 ---
 
 [linkedin]: https://www.linkedin.com/in/daniel-suárez-garcía-1b3650187
