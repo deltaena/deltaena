@@ -19,7 +19,6 @@
 
 ### Languages and Tools:
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 Android studio, Kotlin, Java, Visual Code, Javascript, C#, Spring boot 
