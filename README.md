@@ -2,7 +2,7 @@
 
 ## I'm a spanish applications developer!!
 - 💆🏻‍  Always looking forward to improve and share knowledge
-- 🎸 I also play the guitar and play chess when i'm not coding ♛
+- 🎸 I also play the guitar and chess when i'm not coding ♛
 
 ### Connect with me:
 
