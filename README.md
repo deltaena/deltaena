@@ -18,3 +18,7 @@
 [instagram]: https://www.instagram.com/deltaena/
 
 ### Languages and Tools:
+
+<i class="fab fa-java"></i>
+
+Android studio, Kotlin, Java, Visual Code, Javascript, C#, Spring boot 
