@@ -19,6 +19,6 @@
 
 ### Languages and Tools:
 
-![Image of Yaktocat](https://github.com/deltaena/Resources/blob/main/java.svg)
+<img src="https://github.com/deltaena/Resources/blob/main/java.svg" alt="drawing" width="200"/>
 
 Android studio, Kotlin, Java, Visual Code, Javascript, C#, Spring boot 
