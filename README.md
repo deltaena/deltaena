@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniel aka deltaena👋
 
-## I'm a spanish application developer!!
+## I'm a spanish applications developer!!
 - Always looking forward to improve and share knowledge
 - I also play the guitar and play chess when i'm not coding
 
