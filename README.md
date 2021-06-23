@@ -18,7 +18,8 @@
 [<img src="https://github.com/deltaena/Resources/blob/main/Android_Studio_Icon_(2014-2019).svg.png" alt="drawing" width="40px"/>][androidStudio]
 [<img src="https://github.com/deltaena/Resources/blob/main/Kotlin_Icon.png" alt="drawing" width="40px"/>][kotlin]
 [<img src="https://github.com/deltaena/Resources/blob/main/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="drawing" width="40px"/>][visualCode]
-[<img src="https://github.com/deltaena/Resources/blob/main/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="drawing" width="40px"/>][javaScript]
+[<img src="https://github.com/deltaena/Resources/blob/main/480px-Unofficial_JavaScript_logo_2.svg.png" alt="drawing" width="40px"/>][javaScript]
+[<img src="https://github.com/deltaena/Resources/blob/main/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="drawing" width="40px"/>][c#]
 
 C#, Spring boot 
 
@@ -32,3 +33,4 @@ C#, Spring boot
 [kotlin]: https://kotlinlang.org/
 [visualCode]: https://code.visualstudio.com/
 [javaScript]: https://www.javascript.com/
+[c#]: 
