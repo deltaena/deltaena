@@ -14,11 +14,11 @@
 
 ### Languages and Tools:
 
-[<img src="https://github.com/deltaena/Resources/blob/main/java.svg" alt="drawing" width="22px"/>][java]
-[<img src="https://github.com/deltaena/Resources/blob/main/Android_Studio_Icon_(2014-2019).svg.png" alt="drawing" width="22px"/>][androidStudio]
-[<img src="https://github.com/deltaena/Resources/blob/main/Kotlin_Icon.png" alt="drawing" width="22px"/>][kotlin]
-[<img src="https://github.com/deltaena/Resources/blob/main/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="drawing" width="22px"/>][visualCode]
-[<img src="https://github.com/deltaena/Resources/blob/main/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="drawing" width="22px"/>][javaScript]
+[<img src="https://github.com/deltaena/Resources/blob/main/java.svg" alt="drawing" width="40px"/>][java]
+[<img src="https://github.com/deltaena/Resources/blob/main/Android_Studio_Icon_(2014-2019).svg.png" alt="drawing" width="40px"/>][androidStudio]
+[<img src="https://github.com/deltaena/Resources/blob/main/Kotlin_Icon.png" alt="drawing" width="40px"/>][kotlin]
+[<img src="https://github.com/deltaena/Resources/blob/main/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="drawing" width="40px"/>][visualCode]
+[<img src="https://github.com/deltaena/Resources/blob/main/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="drawing" width="40px"/>][javaScript]
 
 C#, Spring boot 
 
