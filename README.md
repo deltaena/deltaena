@@ -33,4 +33,4 @@ C#, Spring boot
 [kotlin]: https://kotlinlang.org/
 [visualCode]: https://code.visualstudio.com/
 [javaScript]: https://www.javascript.com/
-[c#]: 
+[c#]: https://docs.microsoft.com/en-us/dotnet/csharp/
