@@ -14,11 +14,12 @@
 
 ### Languages and Tools:
 
-[<img src="https://github.com/deltaena/Resources/blob/main/java.svg" alt="drawing" width="50"/>]
-[<img src="https://github.com/deltaena/Resources/blob/main/Android_Studio_Icon_(2014-2019).svg.png" alt="drawing" width="50"/>]
-<img src="https://github.com/deltaena/Resources/blob/main/Kotlin_Icon.png" alt="drawing" width="50"/>
+[<img src="https://github.com/deltaena/Resources/blob/main/java.svg" alt="drawing" width="50"/>][java]
+[<img src="https://github.com/deltaena/Resources/blob/main/Android_Studio_Icon_(2014-2019).svg.png" alt="drawing" width="50"/>][androidStudio]
+[<img src="https://github.com/deltaena/Resources/blob/main/Kotlin_Icon.png" alt="drawing" width="50"/>][kotlin]
+[<img src="https://github.com/deltaena/Resources/blob/main/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="drawing" width="50"/>][visualCode]
 
-, Kotlin, Visual Code, Javascript, C#, Spring boot 
+Visual Code, Javascript, C#, Spring boot 
 
 ---
 
@@ -27,3 +28,5 @@
 
 [java]: https://www.java.com/es/
 [androidStudio]: https://developer.android.com/studio
+[kotlin]: https://kotlinlang.org/
+[visualCode]: https://code.visualstudio.com/
