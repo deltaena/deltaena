@@ -12,15 +12,18 @@
 <br />
 <br />
 
+### Languages and Tools:
+
+[<img src="https://github.com/deltaena/Resources/blob/main/java.svg" alt="drawing" width="50"/>][java]
+[<img src="https://github.com/deltaena/Resources/blob/main/Android_Studio_Icon_(2014-2019).svg.png" alt="drawing" width="50"/>][androidStudio]
+<img src="https://github.com/deltaena/Resources/blob/main/Kotlin_Icon.png" alt="drawing" width="50"/>
+
+, Kotlin, Visual Code, Javascript, C#, Spring boot 
+
 ---
 
 [linkedin]: https://www.linkedin.com/in/daniel-suárez-garcía-1b3650187
 [instagram]: https://www.instagram.com/deltaena/
 
-### Languages and Tools:
-
-<img src="https://github.com/deltaena/Resources/blob/main/java.svg" alt="drawing" width="50"/>
-<img src="https://github.com/deltaena/Resources/blob/main/Android_Studio_Icon_(2014-2019).svg.png" alt="drawing" width="50"/>
-<img src="https://github.com/deltaena/Resources/blob/main/Kotlin_Icon.png" alt="drawing" width="50"/>
-
-, Kotlin, Visual Code, Javascript, C#, Spring boot 
+[java]: https://www.java.com/es/
+[androidStudio]: https://developer.android.com/studio
